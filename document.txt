@@ -1,1 +1,3 @@
 mi first document
+lets try something new.
+tai teaches me to get into git.
