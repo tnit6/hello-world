@@ -1,3 +1,5 @@
 mi first document
 lets try something new.
 tai teaches me to get into git.
+and now doing this on vscode.
+sometimes pc freezes lol.
